@@ -1,0 +1,19 @@
+body {
+    background-color: #343a40; 
+    font-family: "Roboto Mono", monospace;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+h1 {
+    color: white;
+    position: relative;
+    margin-top: 100px;
+    top: 40px;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: "Roboto Mono", monospace;
+}
