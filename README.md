@@ -1,13 +1,13 @@
 # 3D-Cube
 Colour changing, rotating 3D cube using HTML/CSS, JS and Three.js.
 
-## Purpose
-- for fun 
-- got bored studying for computer organization
+## Why?
+- I did this on a whim (about 6 hours)
+- got bored studying for computer organization Oops
 - looked up a three.js tutorial and some documentation
 - this is different from the documentation:
   - its changing in colours!
-  - coded in OOP!
+  - JavaScript in OOP!
   - that's about it
 
 ## Overall
